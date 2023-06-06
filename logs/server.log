@@ -1,0 +1,28 @@
+2023-06-06 08:58:56,340 [INFO] start: «апустили web-сервер на порту :8080, директори€ C:\Users\fokin\PycharmProjects\seti.all\seti\web_server\html
+2023-06-06 08:59:06,479 [INFO] new_client_request: Tue, 06 Jun 2023 05:59:06 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 08:59:07,479 [INFO] new_client_request: Tue, 06 Jun 2023 05:59:07 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:02:05,381 [INFO] new_client_request: Tue, 06 Jun 2023 06:02:05 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:02:06,357 [INFO] new_client_request: Tue, 06 Jun 2023 06:02:06 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:02:07,267 [INFO] new_client_request: Tue, 06 Jun 2023 06:02:07 GMT -> 127.0.0.1, /image.jpg 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:02:34,252 [INFO] new_client_request: Tue, 06 Jun 2023 06:02:34 GMT -> 127.0.0.1, /image.jpg 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:03:11,975 [INFO] new_client_request: Tue, 06 Jun 2023 06:03:11 GMT -> 127.0.0.1, /image.jpg 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:03:13,439 [INFO] new_client_request: Tue, 06 Jun 2023 06:03:13 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:03:14,316 [INFO] new_client_request: Tue, 06 Jun 2023 06:03:14 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:03:15,349 [INFO] new_client_request: Tue, 06 Jun 2023 06:03:15 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:03:25,752 [INFO] new_client_request: Tue, 06 Jun 2023 06:03:25 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:04:11,067 [INFO] start: «апустили web-сервер на порту :8080, директори€ C:\Users\fokin\PycharmProjects\seti.all\seti\web_server\html
+2023-06-06 09:04:13,495 [INFO] new_client_request: Tue, 06 Jun 2023 06:04:13 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:04:14,493 [INFO] new_client_request: Tue, 06 Jun 2023 06:04:14 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:04:17,841 [INFO] new_client_request: Tue, 06 Jun 2023 06:04:17 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:05:16,052 [INFO] new_client_request: Tue, 06 Jun 2023 06:05:16 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:05:16,991 [INFO] new_client_request: Tue, 06 Jun 2023 06:05:16 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:05:17,384 [INFO] new_client_request: Tue, 06 Jun 2023 06:05:17 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:06:27,655 [INFO] new_client_request: Tue, 06 Jun 2023 06:06:27 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:06:29,250 [INFO] new_client_request: Tue, 06 Jun 2023 06:06:29 GMT -> 127.0.0.1, /favicon.ico 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:06:49,127 [INFO] new_client_request: Tue, 06 Jun 2023 06:06:49 GMT -> 127.0.0.1, / 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:07:09,477 [INFO] new_client_request: Tue, 06 Jun 2023 06:07:09 GMT -> 127.0.0.1, /cat.meow 404 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:10:45,051 [INFO] start: «апустили web-сервер на порту :8080, директори€ C:\Users\fokin\PycharmProjects\seti.all\seti\web_server\html
+2023-06-06 09:10:46,442 [INFO] new_client_request: Tue, 06 Jun 2023 06:10:46 GMT -> 127.0.0.1, /image 200 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 09:10:54,112 [INFO] new_client_request: Tue, 06 Jun 2023 06:10:54 GMT -> 127.0.0.1, /test 403 - GET Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-06 14:25:14,704 [INFO] start: «апустили web-сервер на порту :8080, директори€ C:\Users\fokin\PycharmProjects\web_server\html
+2023-06-06 14:27:36,846 [INFO] start: «апустили web-сервер на порту :8080, директори€ C:\Users\fokin\PycharmProjects\web_server\html
